@@ -1,9 +1,3 @@
-// JavaScript Space Invaders Arcade emulator
-// Class for emulation of the Intel8080 cpu.
-//
-// This file is a partial port from BlitzMax to ActionScript
-// http://rveilleux.googlepages.com/blitzmaxarcadeemulatortutorial
-
 module cpu {
 
     export class Intel8080
@@ -37,7 +31,7 @@ module cpu {
         count_instructions = 0;
         half_instruction_per_frame;
 
-        // additionnal debug fields, not used by CPU
+        // additional debug fields, not used by CPU
         disassembly_pc = 0;
 
         // input handling
