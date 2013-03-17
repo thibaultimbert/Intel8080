@@ -1,0 +1,8 @@
+#container
+{
+    max-width: 256px;
+    max-height: 224px;
+    -webkit-transform-origin: 50% 50%;
+    -webkit-transform: rotate(-90deg);
+    padding: 10px 0px 30px 0;
+}

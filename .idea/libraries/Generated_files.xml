@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/8080.js" />
+        <item url="file://$PROJECT_DIR$/IO.js" />
+        <item url="file://$PROJECT_DIR$/Input.js" />
+        <item url="file://$PROJECT_DIR$/main.js" />
+        <item url="file://$PROJECT_DIR$/Screen.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/IO.js" />
+      <root url="file://$PROJECT_DIR$/8080.js" />
+      <root url="file://$PROJECT_DIR$/input.js" />
+      <root url="file://$PROJECT_DIR$/IO.js" />
+      <root url="file://$PROJECT_DIR$/screen.js" />
+      <root url="file://$PROJECT_DIR$/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
