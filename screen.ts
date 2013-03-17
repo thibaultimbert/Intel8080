@@ -1,3 +1,8 @@
+// Class for emulation of the Space Invaders arcade video system
+//
+// This file is a port from ActionScript - http://www.bytearray.org/?p=622
+// Original class (BlitzMax) - http://rveilleux.googlepages.com/blitzmaxarcadeemulatortutorial
+
 module video
 {
     export class Screen

@@ -1,3 +1,9 @@
+// JavaScript Intel 8080 CPU emulator
+// Class for emulation of the Intel 8080 processor.
+//
+// This file is a port from ActionScript - http://www.bytearray.org/?p=622
+// Original class (BlitzMax) - http://rveilleux.googlepages.com/blitzmaxarcadeemulatortutorial
+
 module cpu {
 
     export class Intel8080

@@ -1,3 +1,5 @@
+// Initial setup/plumbing (rom/memory/cpu/input/screen)
+
 // rom loading
 var oReq = new XMLHttpRequest();
 oReq.open("GET", "https://dl.dropbox.com/u/7009356/invaders.rom", true);
