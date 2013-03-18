@@ -5,7 +5,7 @@
     <ignored path="TestTS.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/main.ts" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363507366139" ignored="false" />
-    <file path="/index.html" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363584449414" ignored="false" />
+    <file path="/index.html" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363586394811" ignored="false" />
     <file path="/8080.ts" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363456919292" ignored="false" />
     <file path="/Screen.ts" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363454995224" ignored="false" />
     <file path="/main.js" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363416299253" ignored="false" />
@@ -45,7 +45,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="247" selection-start="681" selection-end="681" vertical-scroll-proportion="0.25896415">
+            <state line="12" column="79" selection-start="745" selection-end="745" vertical-scroll-proportion="0.23904383">
               <folding />
             </state>
           </provider>
@@ -525,7 +525,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="247" selection-start="681" selection-end="681" vertical-scroll-proportion="0.25896415">
+        <state line="12" column="79" selection-start="745" selection-end="745" vertical-scroll-proportion="0.23904383">
           <folding />
         </state>
       </provider>
