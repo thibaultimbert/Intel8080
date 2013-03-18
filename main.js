@@ -1,5 +1,5 @@
 var oReq = new XMLHttpRequest();
-oReq.open("GET", "https://dl.dropbox.com/u/7009356/invaders.rom", true);
+oReq.open("GET", "invaders.rom", true);
 oReq.responseType = "arraybuffer";
 var processor = new cpu.Intel8080();
 var canvas = document.createElement("canvas");

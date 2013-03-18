@@ -2,7 +2,7 @@
 
 // rom loading
 var oReq = new XMLHttpRequest();
-oReq.open("GET", "https://dl.dropbox.com/u/7009356/invaders.rom", true);
+oReq.open("GET", "invaders.rom", true);
 // binary
 oReq.responseType = "arraybuffer";
 
