@@ -22,7 +22,7 @@ document.body.appendChild(container);
 var context = canvas.getContext("2d");
 
 // screen
-var screen = new video.Screen(processor, context, 256, 224, false, 0);
+var screen = new video.Screen(processor, context, canvas.width, canvas.height, false, 0);
 
 // user input (keyboard)
 var input = new io.Input(document, this, processor);

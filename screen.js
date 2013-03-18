@@ -30,7 +30,7 @@ var video;
                     for(var b = 0; b < 8; b++) {
                         color = 0xFF000000;
                         if(vram & 1) {
-                            color = 0xFFFF6500;
+                            color = 0xFFFFFFFF;
                         }
                         this.setPixel(this.imageData, k, j, color);
                         k++;

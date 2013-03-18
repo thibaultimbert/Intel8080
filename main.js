@@ -10,7 +10,7 @@ container.id = 'container';
 container.appendChild(canvas);
 document.body.appendChild(container);
 var context = canvas.getContext("2d");
-var screen = new video.Screen(processor, context, 256, 224, false, 0);
+var screen = new video.Screen(processor, context, canvas.width, canvas.height, false, 0);
 var input = new io.Input(document, this, processor);
 input.init();
 processor.setInput(input);
