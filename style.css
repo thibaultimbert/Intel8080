@@ -12,3 +12,9 @@
     -o-transform: rotate(-90deg);
     padding: 10px 0px 30px 0;
 }
+
+body
+{
+    font-family: "Arial";
+    font-size: 12px;
+}
