@@ -5,7 +5,7 @@
     <ignored path="TestTS.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/main.ts" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363507366139" ignored="false" />
-    <file path="/index.html" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363586394811" ignored="false" />
+    <file path="/index.html" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363586463155" ignored="false" />
     <file path="/8080.ts" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363456919292" ignored="false" />
     <file path="/Screen.ts" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363454995224" ignored="false" />
     <file path="/main.js" changelist="8c7dbde0-3b58-42a6-a961-ec9c3af8fca0" time="1363416299253" ignored="false" />
@@ -45,7 +45,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="79" selection-start="745" selection-end="745" vertical-scroll-proportion="0.23904383">
+            <state line="11" column="75" selection-start="349" selection-end="349" vertical-scroll-proportion="0.21912351">
               <folding />
             </state>
           </provider>
@@ -64,6 +64,15 @@
         <entry file="file://$PROJECT_DIR$/8080.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1094" column="64" selection-start="30017" selection-end="30021" vertical-scroll-proportion="-9.769231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8080.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8080.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="780" column="0" selection-start="26448" selection-end="26448" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -216,6 +225,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Intel8080" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intel8080" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intel8080" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8080.ts" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -460,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8080.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="780" column="0" selection-start="26448" selection-end="26448" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="587" selection-end="587" vertical-scroll-proportion="0.2948886">
@@ -509,13 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8080.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1094" column="64" selection-start="30017" selection-end="30021" vertical-scroll-proportion="-9.769231">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="39" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
@@ -523,9 +532,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/8080.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1094" column="64" selection-start="30017" selection-end="30021" vertical-scroll-proportion="-9.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8080.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="780" column="0" selection-start="26448" selection-end="26448" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="79" selection-start="745" selection-end="745" vertical-scroll-proportion="0.23904383">
+        <state line="11" column="75" selection-start="349" selection-end="349" vertical-scroll-proportion="0.21912351">
           <folding />
         </state>
       </provider>
