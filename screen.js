@@ -41,7 +41,7 @@ var video;
             this.canvas.putImageData(this.imageData, 0, 0);
         };
         Screen.prototype.setPixel = function (imagedata, x, y, color) {
-            var i = (y * imagedata.width + x) * 4;
+            var i = (y * (imagedata.width | 0) + x) * 4;
             imagedata.data[i++] = (color >> 16) & 0xFF;
             imagedata.data[i++] = (color >> 8) & 0xFF;
             imagedata.data[i++] = color & 0xFF;
