@@ -14,6 +14,7 @@ var screen = new video.Screen(processor, context, canvas.width, canvas.height, f
 var input = new io.Input(document, this, processor);
 input.init();
 processor.setInput(input);
+
 oReq.onload = function (oEvent) {
     var arrayBuffer = oReq.response;
     if(arrayBuffer) {
@@ -30,6 +31,7 @@ oReq.onload = function (oEvent) {
         input.interval = id;
     }
 };
+
 function run() {
     input.update();
     processor.Run();
